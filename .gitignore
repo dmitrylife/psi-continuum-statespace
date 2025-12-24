@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# --- Virtual environments ---
+venv/
+sci_venv/
+.env/
+.venv/
+
+# Generated figures
+*.png
+*.csv
+*.json
+
+# --- Logs ---
+*.log
+
+# --- System / Editor files ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+
+# --- More ---
+faq.txt
