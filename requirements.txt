@@ -1,0 +1,3 @@
+numpy
+matplotlib
+psi-continuum-v2>=0.2.3
