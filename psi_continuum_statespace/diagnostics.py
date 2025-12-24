@@ -61,7 +61,7 @@ def integrated_distance(z, psi_a, psi_b):
     z = np.asarray(z, dtype=float)
     dpsi = np.abs(np.asarray(psi_a) - np.asarray(psi_b))
 
-    return np.trapz(dpsi, z)
+    return np.trapezoid(dpsi, z)
 
 
 def max_deviation(psi_a, psi_b, percent=True):
