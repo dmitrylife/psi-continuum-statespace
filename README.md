@@ -13,8 +13,8 @@ This package implements **diagnostic state-space analysis only**.
 It does not introduce new cosmological models, modify the Psi–Continuum
 v2 API, or perform parameter fitting.
 
-All results are derived exclusively from the frozen background-level
-functions provided by Psi–Continuum v2.
+derived from a fixed, frozen background-level implementation consistent
+with Psi–Continuum v2.
 
 The package is designed to support fully reproducible state-space diagnostics.
 
