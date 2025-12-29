@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+
+message: >
+  If you use this software, please cite the associated article.
+  This repository provides diagnostic tools accompanying the publication.
+
+authors:
+  - family-names: Klimov
+    given-names: Dmitry Vasilevich
+    orcid: https://orcid.org/0009-0009-3305-7592
+
+title: >
+  Psi–Continuum State-Space Diagnostics
+
+version: 0.1.0
+
+date-released: 2025-12-29
+
+license: MIT
+
+repository-code: https://github.com/dmitrylife/psi-continuum-statespace
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Klimov
+      given-names: Dmitry Vasilevich
+      orcid: https://orcid.org/0009-0009-3305-7592
+  title: >
+    Psi–Continuum Cosmology v5:
+    A Macroscopic State–Space Response Framework for Late–Time Cosmic Expansion
+  year: 2025
+  journal: Zenodo
+  doi: 10.5281/zenodo.18088720

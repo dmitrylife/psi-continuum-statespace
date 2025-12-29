@@ -75,8 +75,9 @@ def dpsi_dz(z, lcdm_params, psicdm_params):
     """
     Numerical derivative dPsi/dz.
 
-    This quantity is useful as a proxy for relaxation strength
-    and entropy-production diagnostics in state space.
+    This quantity may be used as an auxiliary diagnostic indicator
+    of the variation of the state-space coordinate with redshift.
+    No physical interpretation is implied at this stage.
 
     Parameters
     ----------
