@@ -53,6 +53,26 @@ psi-continuum-statespace
 └── requirements.txt
 ```
 
+
+## Installation
+
+Installation options:
+
+- Installation via PyPI (recommended)
+- Installation from source (clone repository)
+
+---
+
+### Installation via PyPI (recommended)
+
+You can install Psi–Continuum State-Space Diagnostics directly from PyPI:
+
+```bash
+pip install psi-continuum-statespace
+```
+
+---
+
 ## Usage
 
 The package provides a command-line interface for exploratory and
