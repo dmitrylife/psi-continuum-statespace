@@ -6,17 +6,41 @@ build-backend = "setuptools.build_meta"
 name = "psi-continuum-statespace"
 version = "0.1.0"
 description = "Macroscopic state-space diagnostics for late-time cosmic expansion"
-authors = [
-    { name = "Dmitry V. Klimov" }
-]
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
+
+authors = [
+    { name = "Dmitry V. Klimov" }
+]
 
 dependencies = [
     "numpy>=1.22",
     "matplotlib>=3.6",
     "psi-continuum-v2>=0.2.3"
+]
+
+keywords = [
+    "cosmology",
+    "state-space diagnostics",
+    "late-time acceleration",
+    "dark energy",
+    "LCDM",
+    "phenomenological cosmology",
+    "observational cosmology"
+]
+
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Astronomy",
+    "Topic :: Scientific/Engineering :: Physics",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12"
 ]
 
 [project.scripts]
