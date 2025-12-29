@@ -42,6 +42,13 @@ classifiers = [
     "Programming Language :: Python :: 3.12"
 ]
 
+[project.urls]
+Homepage = "https://github.com/dmitrylife/psi-continuum-statespace"
+Documentation = "https://psi-continuum.org/docs/v5/"
+Project = "https://psi-continuum.org/theory.html"
+Source = "https://github.com/dmitrylife/psi-continuum-statespace"
+Issues = "https://github.com/dmitrylife/psi-continuum-statespace/issues"
+
 [project.scripts]
 psi-statespace = "psi_continuum_statespace.cli:main"
 
