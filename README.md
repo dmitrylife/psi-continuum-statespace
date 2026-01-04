@@ -106,14 +106,20 @@ pip install -e .
 
 ## Relation to the publication
 
-This repository serves as a companion diagnostic implementation for the
-article:
+This repository provides the reference implementation of the macroscopic
+state–space diagnostics introduced in the article:
 
 “Psi–Continuum Cosmology v5:
 A Macroscopic State–Space Response Framework for Late–Time Cosmic Expansion”
+Zenodo preprint. DOI: **10.5281/zenodo.18088720**
 
 The finalized figures used in the article are provided separately in the
 `publication/` directory for reference.
+
+The software itself is archived on Zenodo and assigned the following DOI:
+**10.5281/zenodo.18146451**
+
+---
 
 ## License
 
@@ -124,9 +130,21 @@ See the **LICENSE** file for details.
 
 ## Citation
 
-If you use this software or the associated state-space diagnostics in
-academic work, please cite the corresponding article:
+### Software
 
+If you use this software in academic work, please cite:
+
+```
+Dmitry Vasilevich Klimov (2025).
+Psi–Continuum State–Space Diagnostics:
+Macroscopic diagnostics for late–time cosmic expansion.
+Zenodo software. DOI: 10.5281/zenodo.18146451
+```
+
+### Article
+
+If you refer to the theoretical framework or scientific interpretation,
+please cite the associated article:
 
 ```
 Dmitry Vasilevich Klimov (2025).
